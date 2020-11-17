@@ -1,9 +1,10 @@
 #!/bin/bash
-
 if [[ $1 = "user" && $2 = "mdp" ]]
 then
-	echo "Vous êtes connectés"
+	echo "Vous êtes connectés | you are conecteud"
 else
-	echo "Go away"
+	echo "Va-t-en |Go away"
 fi
+
+#Fait par Antoine
 
